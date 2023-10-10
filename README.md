@@ -3,7 +3,7 @@
 📊 Apasionado por los datos y su impacto en la toma de decisiones.
 🌱 Siempre aprendiendo y mejorando mis habilidades en análisis de datos, machine learning y visualización de datos.
 🤝 Interesado en colaborar en proyectos de ciencia de datos y análisis de datos.
-📫 Puedes contactarme en [tu@email.com] o a través de [LinkedIn](tu_perfil_de_LinkedIn).
+📫 Puedes contactarme en sosajuancruz65@gmail.com o a través de (https://www.linkedin.com/in/juan-sosa01).
 
 #### Formación
 
@@ -16,8 +16,8 @@
 - 🤖 Machine Learning con TensorFlow
 - 📈 Visualización de datos con Power BI y otras herramientas
 - 🐍 Python
-- 📦 Bibliotecas de ciencia de datos (p. ej., NumPy, pandas, scikit-learn, TensorFlow)
-- 📊 Herramientas de colaboración (p. ej., Git, GitHub)
+- 📦 Bibliotecas de ciencia de datos ( NumPy, pandas, scikit-learn, TensorFlow)
+- 📊 Herramientas de colaboración ( Git, GitHub)
 - 📊 Lenguaje R y RStudio
 
 #### Proyecto Destacado
